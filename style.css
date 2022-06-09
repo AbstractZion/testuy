@@ -1,0 +1,31 @@
+.heading{
+   background-color: rgba(187, 136, 245, 0.836);
+   color: white;
+   font-size: 23px;
+}
+
+.note{
+    font-size: 19px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 23px;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_volume{
+    float:right;
+}
+
+body{
+    background-size: cover;
+}
+
+.play_button{
+    width: 160px;
+    font-size: 25px;
+}
